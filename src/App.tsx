@@ -68,7 +68,7 @@ function App() {
     <div className="container">
       <div className="header-row">
         <div className="header-text">
-          <h1>Uncle Jan's Report Generator</h1>
+          <h1>The Incredible Machine</h1>
           <p className="subtitle">Select an encounter to view the student feedback report</p>
         </div>
         <img
